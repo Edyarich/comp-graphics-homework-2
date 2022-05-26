@@ -1,0 +1,24 @@
+# ninja log v5
+5	260	1653555815656835461	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/posix_tls.c.o	5e13a9a60a0f568f
+4	268	1653555815664835553	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/posix_time.c.o	eb6ff86699649cd0
+12	500	1653555739747954815	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/window.c.o	ccfb8aaff2006643
+2	2369	1653555741611976700	external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o	1f5804e43bc45c08
+1	1661	1653555740911968483	CMakeFiles/shooter.dir/common/objloader.cpp.o	668fe97f102186ec
+2537	3060	1653556079447759327	shooter	482fa23b4ad6b287
+6	342	1653555815740836424	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/glx_context.c.o	48cef413afecf0a8
+5	556	1653555739791955332	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/init.c.o	b90cff1b24e7580c
+7	540	1653555739787955285	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/monitor.c.o	b732a3cd5eaae2c7
+3	453	1653555815852837709	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/x11_window.c.o	a68ebcbc6a20a46e
+3	325	1653555815724836241	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/xkb_unicode.c.o	b473a6fafb60d455
+1	1410	1653555740659965524	CMakeFiles/shooter.dir/common/shader.cpp.o	7e05b1a2bd4cd640
+6	567	1653555739815955614	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/input.c.o	e43332444167621d
+2	2536	1653556078939753859	CMakeFiles/shooter.dir/shooter.cpp.o	1fa145d1bc5bb6b
+4	554	1653555739803955473	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/context.c.o	b0c8da845460400f
+4	335	1653555815736836379	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/linux_joystick.c.o	9bb3ec7080bb2a84
+4	30	1653555963922501285	external/glfw-3.1.2/src/libglfw3.a	5d4b8821c51b3bb4
+501	944	1653555740191960029	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/x11_init.c.o	db23dbe957ec9e3f
+1	710	1653555739955957258	CMakeFiles/shooter.dir/common/texture.cpp.o	4f4ceb4e66478324
+540	879	1653555740127959277	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/x11_monitor.c.o	e390c63a0fa637c3
+3	39	1653555815436832939	external/libGLEW_1130.a	65b3237598fe8950
+12	2103	1653556481015952789	CMakeFiles/shooter.dir/shooter.cpp.o	1fa145d1bc5bb6b
+2103	2476	1653556481379956500	shooter	482fa23b4ad6b287
